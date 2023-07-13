@@ -1,9 +1,13 @@
-title: 
-description: 
-image: https://ipfs.io/ipfs/
-mintAddresses:
+title: CyberCollection
+description: CyberCollection is a work of fiction representing an alternate reality of our future, inspired by the Ergo blockchain and various technologies.
+
+Limited to 20 Artworks 
+CyberCollection wants to be as valuable as its members.
+By acquiring these NFTs, you become a unique owner, but also an Architect.
+image: https://ipfs.io/ipfs/bafybeigeipbhe6yqgs3dypx3irlacr5thpeqbsv7puaq3wtjifdlugrnqy
+mintAddresses: 9hdHMQLSAHqWdPyUBdtQBhUzcYHCcv2WipWTASRA19SdqT1FAvm
   - 
 bannerLinks:
   - label: Twitter
-    url: https://twitter.com/
+    url: https://twitter.com/Erg0ne
     icon: fa-brands fa-twitter fa-fw
