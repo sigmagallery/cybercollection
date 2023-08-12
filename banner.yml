@@ -1,5 +1,5 @@
 title: ErgOne
-description: "Decentralised Marketing powered by community - ergone.io/manifesto"
+description: "Decentralised Marketing powered by community"
 image: https://raw.githubusercontent.com/sigmagallery/ergone/main/banner.webp
 pfp: https://raw.githubusercontent.com/sigmagallery/ergone/main/pfp.webp
 mintAddresses:
@@ -11,3 +11,6 @@ bannerLinks:
   - label: Website
     url: https://ergone.io
     icon: fa-solid fa-globe fa-fw
+  - label: Manifesto
+    url: https://ergone.io/manifesto
+    icon: fas fa-file-alt fa-fw
